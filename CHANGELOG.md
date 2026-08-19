@@ -1,3 +1,11 @@
+## 0.9.0
+
+* 27 May 2026 - merged pull request for swift package manager updatre
+
+## 0.8.2
+
+* 07 Sep 2025 - update android SDK version
+
 ## 0.8.1
 
 * 27 Aug 2024 - Web version bump
